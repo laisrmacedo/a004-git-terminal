@@ -1,0 +1,4 @@
+Oi, "eu do futuro". 
+
+Hoje estamos apredendo e treinando comandos iniciais do gitbash
+para manipular pastas e arquivos. 
